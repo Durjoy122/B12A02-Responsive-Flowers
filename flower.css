@@ -134,6 +134,15 @@
 
 /* card */
 
+.edit{
+   font-size: 35px;
+   margin-bottom: 20px;
+}
+
+.edit-x{
+   margin-bottom: 20px;
+}
+
 .action{
    max-width: 1140px;
    margin: 0 auto;
@@ -235,6 +244,9 @@
 
 .abc,.cba{
    text-align: center;
+}
+.abc{
+   margin-bottom: 20px;
 }
 
 /* 3 photo */
@@ -367,6 +379,10 @@
     gap: 80px;
 }
 
+.ll-p{
+   margin-top: -1px;
+   margin-top: 50px;
+}
 
 .fl-pa {
   display: flex;
