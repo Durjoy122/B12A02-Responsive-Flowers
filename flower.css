@@ -566,20 +566,20 @@
 
    .text-x {
       font-size: 22px;
-      text-align: left;  /* Align text left */
-      width: 100%;       /* Ensure full width inside container */
-      padding-left: 15px; /* Optional padding from left edge */
+      text-align: left;  
+      width: 100%;       
+      padding-left: 15px; 
       margin-left: 60px;
     }
 
    .underline-x {
        text-decoration: underline;
        margin-top: 5px;
-       margin-right: 0;     /* Remove right margin */
+       margin-right: 0;     
        font-size: 18px;
-       text-align: left;    /* Align underline text left */
+       text-align: left;   
        width: 100%;
-       padding-left: 15px;  /* Same padding for alignment */
+       padding-left: 15px;  
        margin-left: 120px;
        
    }
